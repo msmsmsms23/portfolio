@@ -1,18 +1,23 @@
 <template>
-  <div class="flex justify-center">
-    <h1>
-      HELLO! I'M COMET-MS
-    </h1>
-    <h2>
-      Welcome to my portfolio!
-    </h2>
+  <div class="flex justify-end">
+    [ KR | EN ]
+    Github Icon
   </div>
 
-  <div>
-    <div class="">
+  <div class="flex flex-col pt-10">
+    <div class="text-center text-4xl">
+      HELLO! I'M COMET-MS
+    </div>
+    <div class="text-center text-4xl">
+      Welcome to my portfolio!
+    </div>
+  </div>
+
+  <div class="pt-10">
+    <div class="text-center text-5xl text-white italic">
       Designing systems. Delivering experiences.
     </div>
-    <div>
+    <div class="text-center font-bold">
       A full-stack developer who values clarity and craft.
     </div>
   </div>
@@ -22,7 +27,18 @@
       Skills
     </div>
     <div>
+      Vue3, Nuxt (Icon)
+    </div>
+  </div>
+  <div>
+    <div>
       Strengths
+    </div>
+    <div>
+      Fast learner
+      Clean and maintainable code
+      Good communication
+      Love challenges
     </div>
   </div>
 
