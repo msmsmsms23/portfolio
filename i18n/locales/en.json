@@ -1,0 +1,24 @@
+{
+  "home_main_title": "HELLO! I'M MS",
+  "home_main_subtitle": "Welcome to my portfolio!",
+  "home_secondary_title": "Designing systems. Delivering experiences.",
+  "home_secondary_subtitle": "A full-stack developer who values clarity and craft.",
+
+  "portfolio_title": "Which of my works are you curious about?",
+  "first_portfolio": "Instagram clone",
+  "second_portfolio": "Real time chat",
+
+  "about_me_title": "Skills",
+  "about_me_first_subtitle": "Languages",
+  "about_me_first_elements": "HTML, CSS, Javascript",
+  "about_me_second_subtitle": "Frameworks",
+  "about_me_second_elements": "Vue.js, Nuxt.js, Node.js, Tailwind CSS, REST APIs",
+  "about_me_third_subtitle": "Relevant Courses",
+  "about_me_third_elements": "Database Management System, Web Programming,  Data Structures",
+  "about_me_fourth_subtitle": "Tools",
+  "about_me_fourth_elements": "Git, GitHub, WebStorm, Postman, Docker, PostgreSQL, Redis",
+  "about_me_fifth_subtitle": "Soft Skills",
+  "about_me_fifth_elements": "Adaptability, Problem-solving, Teamwork, Communication, Time Management, Critical Thinking, Responsibility",
+
+  "contact_me_title": "Get In Touch & Connect With Me"
+}
