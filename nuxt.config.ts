@@ -5,6 +5,9 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
   modules: ['@nuxt/ui', '@nuxtjs/i18n', '@nuxtjs/tailwindcss', '@nuxt/image'],
+  ui: {
+    colorMode: false
+  },
   i18n: {
     defaultLocale: 'en', // always set one! it is used when a translation is missing from the current locale
     locales: [

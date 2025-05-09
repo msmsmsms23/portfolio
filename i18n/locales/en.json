@@ -1,27 +1,54 @@
 {
-  "home_main_title": "HELLO! I'M MS",
-  "home_main_subtitle": "Welcome to my portfolio!",
-  "home_secondary_title": "Designing systems. Delivering experiences.",
-  "home_secondary_subtitle": "A full-stack developer who values clarity and craft.",
+  "home_title": "Full-stack Web developer {'|'} Nuxt {'|'} Vue {'|'} JS",
+  "home_meta_desc": "I'm a freelance full-stack developer based in Korea, specialized in Nuxt, Vue and JS.",
+  "home_meta_keywords": "full-stack, web developer, nuxt, vue, javascript, korea, freelance",
+  "home_main_title": "Hello! I'm Minseo!",
+  "home_main_subtitle": "Freelance full-stack developer based in Korea.",
+  "hero_description": "I specialize in building modern, responsive web applications with focus on Korean market integrations and international best practices.",
+  "view_projects": "View my projects",
+
+  "home_main_description": "As a passionate web developer with over XX years of experience, I specialize in creating responsive, modern web applications using Vue.js, Nuxt.js, and cutting-edge JavaScript frameworks.",
+  "home_main_description2": "I deliver clean, efficient code and exceptional user experiences. Whether you need a brand new website, improvements to an existing one, or help with specific technical challenges.",
+
+  "about": "About",
+  "portfolio": "Portfolio",
+  "services": "Services",
+  "contact": "Contact",
+  "lets_work_together": "Let's work together",
+  "footer_text": "All rights reserved",
+
+  "korean_services_title": "My Korean Market Expertise",
+  "korean_services_intro": "I can help you integrate these services into your project for better reach in the Korean market.",
+  "korean_payment_title": "Korean Payments",
+  "korean_payment_desc_personal": "I can help you add KakaoPay, Toss and other local payment options to your site.",
+  "korean_chat_title": "KakaoTalk Integration",
+  "korean_chat_desc_personal": "I'll connect your app with to Korea's top messaging platform.",
+  "korean_maps_title": "Local Maps",
+  "korean_maps_desc_personal": "I can implement Naver or Kakao Maps that Koreans actually use day-to-day.",
+  "korean_auth_title": "Korean Login Options",
+  "korean_auth_desc_personal": "I can add phone verification and Korean social logins.",
 
   "portfolio_title": "Which of my works are you curious about?",
   "features": "Features",
   "tech_stack": "Tech Stack",
-  "first_portfolio_title": "Instagram clone",
+
   "first_portfolio_first_feature": "Photo upload and display",
   "first_portfolio_second_feature": "Commenting system",
   "first_portfolio_third_feature": "Follow/unfollow functionality",
   "first_portfolio_fourth_feature": "Email notifications",
-  "second_portfolio_title": "Real time chat",
+
   "second_portfolio_first_feature": "Real-time messaging between users",
   "second_portfolio_second_feature": "Emoji reactions for each chat message",
   "second_portfolio_third_feature": "Email notifications",
+  "second_portfolio_fourth_feature": "Public and private chat rooms",
 
-  "about_me_title": "Skills",
+  "about_me_title": "Things I can help you with",
   "about_me_first_subtitle": "Languages",
-  "about_me_first_elements": "HTML, CSS, Javascript",
+  "about_me_first_elements": "Javascript, SQL, HTML, CSS",
   "about_me_second_subtitle": "Frameworks",
   "about_me_second_elements": "Vue.js, Nuxt.js, Node.js, Tailwind CSS, REST APIs",
+  "about_me_specialties_subtitle": "Specialties",
+  "about_me_specialties_elements": "SPA, Web Apps, APIs, Websockets, Web workers",
   "about_me_third_subtitle": "Relevant Courses",
   "about_me_third_elements": "Database Management System, Web Programming,  Data Structures",
   "about_me_fourth_subtitle": "Tools",
@@ -29,5 +56,10 @@
   "about_me_fifth_subtitle": "Soft Skills",
   "about_me_fifth_elements": "Adaptability, Problem-solving, Teamwork, Communication, Time Management, Critical Thinking, Responsibility",
 
-  "contact_me_title": "Get In Touch & Connect With Me"
+  "contact_me_title": "Get In Touch & Connect With Me",
+
+  "available_to_work": "I'm currently available for freelance work, don't hesitate to contact me with any projects or questions.",
+
+  "see_code": "Check out the code on GitHub",
+  "see_live": "Try out the live version"
 }
