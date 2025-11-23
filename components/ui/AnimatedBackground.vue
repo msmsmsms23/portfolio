@@ -47,13 +47,13 @@ const props = defineProps({
   left: 0;
   top: 0;
   z-index: -2;
-  background-color: hsla(321, 77%, 83%, 1);
+  background-color: hsl(270, 100%, 93%);
   background-image:
-      radial-gradient(circle at 5% 1%, hsla(38, 76%, 61%, 1) 7%, transparent 84%),
-      radial-gradient(circle at 7% 81%, hsla(332, 91%, 91%, 1) 16%, transparent 53%),
-      radial-gradient(circle at 11% 29%, hsla(1, 97%, 75%, 1) 8%, transparent 74%),
-      radial-gradient(circle at 39% 52%, hsla(297, 93%, 64%, 1) 6%, transparent 68%),
-      radial-gradient(circle at 90% 50%, hsla(266, 94%, 89%, 1) 2%, transparent 85%);
+      radial-gradient(circle at 5% 1%, hsl(273, 48%, 75%) 7%, transparent 84%),
+      radial-gradient(circle at 7% 81%, hsl(276, 100%, 90%) 16%, transparent 53%),
+      radial-gradient(circle at 11% 29%, hsl(256, 49%, 45%) 8%, transparent 74%),
+      radial-gradient(circle at 39% 52%, hsl(273, 38%, 36%) 6%, transparent 68%),
+      radial-gradient(circle at 90% 50%, hsl(265, 100%, 86%) 2%, transparent 85%);
   background-blend-mode: normal, normal, normal, normal, normal;
 }
 

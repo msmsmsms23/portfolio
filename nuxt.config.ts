@@ -8,16 +8,4 @@ export default defineNuxtConfig({
   ui: {
     colorMode: false
   },
-  i18n: {
-    defaultLocale: 'en', // always set one! it is used when a translation is missing from the current locale
-    locales: [
-      { code: 'en', name: 'English', file: 'en.json' },
-      { code: 'ko', name: '한국어', file: 'ko.json' }
-    ]
-  },
-  public: {
-    i18n: {
-      baseUrl: 'https://example.com', // your base URL, required to use their SEO features
-    }
-  },
 })

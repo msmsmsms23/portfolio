@@ -41,7 +41,7 @@
             class="flex items-center gap-2"
           >
             <UIcon name="grommet-icons:github" class="size-4" />
-            <span>{{ $t('see_code') }}</span>
+            <span>GitHub에서 확인하기</span>
           </UButton>
 
           <UButton
@@ -53,7 +53,7 @@
             class="flex items-center gap-2"
           >
             <UIcon name="i-heroicons-globe-alt" class="size-4" />
-            <span>{{ $t('see_live') }}</span>
+            <span>직접 보기</span>
           </UButton>
         </div>
       </div>
