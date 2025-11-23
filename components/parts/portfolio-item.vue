@@ -34,7 +34,7 @@
         <div v-if="codeUrl || liveUrl" class="mt-6 flex flex-wrap gap-3">
           <UButton
             v-if="codeUrl"
-            :href="props.codeUrl"
+            :to="props.codeUrl"
             target="_blank"
             color="blue"
             size="sm"
@@ -46,7 +46,7 @@
 
           <UButton
             v-if="liveUrl"
-            :href="props.liveUrl"
+            :to="props.liveUrl"
             target="_blank"
             color="green"
             size="sm"
