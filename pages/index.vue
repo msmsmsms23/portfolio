@@ -185,12 +185,12 @@ const { t } = useI18n();
 
 watchEffect(() => {
   useHead({
-    title: t('home_title'),
+    title: "Full-stack Web developer {'|'} Nuxt {'|'} Vue {'|'} JS",
     meta: [
-      { name: 'description', content: t('home_meta_desc') },
-      { name: 'keywords', content: t('home_meta_keywords') },
-      { property: 'og:title', content: t('home_title') },
-      { property: 'og:description', content: t('home_meta_desc') },
+      { name: 'description', content: "김민서의 포트폴리오" },
+      { name: 'keywords', content: "풀스택 개발자" },
+      { property: 'og:title', content: "Full-stack Web developer {'|'} Nuxt {'|'} Vue {'|'} JS" },
+      { property: 'og:description', content: "김민서의 포트폴리오" },
       { property: 'og:type', content: 'website' },
     ],
   })
