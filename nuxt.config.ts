@@ -6,6 +6,9 @@ export default defineNuxtConfig({
   router: {
     base: '/portfolio/'
   },
+  app: {
+    baseURL: '/portfolio/',
+  },
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
   modules: ['@nuxt/ui', '@nuxtjs/i18n', '@nuxtjs/tailwindcss', '@nuxt/image'],

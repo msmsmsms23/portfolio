@@ -51,8 +51,8 @@ const portfolioItems = [
     title: "실시간 채팅 프로그램",
     codeUrl: "https://github.com/msmsmsms23/real-time-chat",
     images: [
-      "/screenshot/real-time-chat.png",
-      "/screenshot/real-time-chat2.png"
+      "/portfolio/screenshot/real-time-chat.png",
+      "/portfolio/screenshot/real-time-chat2.png"
     ],
     features: [
       '사용자 간 실시간 채팅',
@@ -67,10 +67,10 @@ const portfolioItems = [
     title: "Instagram clone",
     codeUrl: "https://github.com/msmsmsms23/instagram-clone",
     images: [
-      "/screenshot/instagram-clone.png",
-      "/screenshot/instagram-clone2.png",
-      "/screenshot/instagram-clone3.png",
-      "/screenshot/instagram-clone4.png"
+      "/portfolio/screenshot/instagram-clone.png",
+      "/portfolio/screenshot/instagram-clone2.png",
+      "/portfolio/screenshot/instagram-clone3.png",
+      "/portfolio/screenshot/instagram-clone4.png"
     ],
     features: [
       '사진 게시 및 열람',
@@ -85,9 +85,9 @@ const portfolioItems = [
     title: "퍼즐 게임",
     codeUrl: "https://github.com/msmsmsms23/puzzle",
     images: [
-      "/screenshot/puzzle.png",
-      "/screenshot/puzzle2.png",
-      "/screenshot/puzzle3.png",
+      "/portfolio/screenshot/puzzle.png",
+      "/portfolio/screenshot/puzzle2.png",
+      "/portfolio/screenshot/puzzle3.png",
     ],
     features: [
       '마을 어르신들이 직접 찍으신 사진을 업로드해 만든 퍼즐 게임',
@@ -101,8 +101,8 @@ const portfolioItems = [
     title: "감정 분석 일기",
     codeUrl: "https://github.com/msmsmsms23/ASK_BURY",
     images: [
-      "/screenshot/ask-bury.png",
-      "/screenshot/ask-bury2.png",
+      "/portfolio/screenshot/ask-bury.png",
+      "/portfolio/screenshot/ask-bury2.png",
     ],
     features: [
       '일기 작성',
