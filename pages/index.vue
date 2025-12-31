@@ -89,8 +89,8 @@
           <p class="text-primaryColor-200 italic">
             2022. 12 ~ 2023. 08
           </p>
-          <h3 class="text-lg font-bold mb-2 mt-1">지능형 블록체인 웹 개발자 양성과정 수료</h3>
-          <p class="text-sm text-gray-600">K-digital 트레이닝을 통해 8개월 간 여러 팀 프로젝트를 수행</p>
+          <h3 class="text-lg font-bold mb-2 mt-1">K-digital 지능형 블록체인 웹 개발자 양성과정 수료</h3>
+          <p class="text-sm text-gray-600">8개월 간 여러 팀 프로젝트 수행</p>
         </div>
 
         <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primaryColor-300 flex flex-col items-center text-center">
@@ -100,8 +100,8 @@
           <p class="text-primaryColor-200 italic">
             2023. 07 ~ 2023. 09
           </p>
-          <h3 class="text-lg font-bold mb-2 mt-1">"대학생이 간다" 공모전 우수상</h3>
-          <p class="text-sm text-gray-600">천안시에서 주최하는 농촌 마을 만들기 프로젝트에서 노인들을 위한 스마트폰 교육 및 퍼즐 게임 웹 사이트 제작</p>
+          <h3 class="text-lg font-bold mb-2 mt-1">「대학생이 간다」 공모전 우수상</h3>
+          <p class="text-sm text-gray-600">노인들을 위한 스마트폰 교육 및 퍼즐 게임 웹 사이트 제작</p>
         </div>
 
         <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primaryColor-300 flex flex-col items-center text-center">
@@ -111,8 +111,8 @@
           <p class="text-primaryColor-200 italic">
             2023. 10 ~ 2024. 06
           </p>
-          <h3 class="text-lg font-bold mb-2 mt-1">SI 회사 재직</h3>
-          <p class="text-sm text-gray-600">국민연금공단 프로젝트 참여</p>
+          <h3 class="text-lg font-bold mb-2 mt-1">국민연금공단 프로젝트 참여</h3>
+          <p class="text-sm text-gray-600">SI 회사 재직 중 프로젝트 참여</p>
         </div>
 
         <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primaryColor-300 flex flex-col items-center text-center">
@@ -133,7 +133,7 @@
             2025. 07
           </p>
           <h3 class="text-lg font-bold mb-2 mt-1">미국 워싱턴대학교 연수</h3>
-          <p class="text-sm text-gray-600">"경기 청년 사다리 프로그램"을 통해 미국의 워싱턴대학교에서 3주 간 어학 연수</p>
+          <p class="text-sm text-gray-600">「경기 청년 사다리 프로그램」을 통해 미국의 워싱턴대학교에서 3주 간 어학 연수</p>
         </div>
 
         <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primaryColor-300 flex flex-col items-center text-center">
@@ -143,8 +143,7 @@
           <p class="text-primaryColor-200 italic">
             2025. 12
           </p>
-          <h3 class="text-lg font-bold mb-2 mt-1">정보처리기사 자격증</h3>
-          <p class="text-sm text-gray-600">가채점 결과 합격 후 결과를 기다리고 있음</p>
+          <h3 class="text-lg font-bold mb-2 mt-1">정보처리기사 자격증 취득</h3>
         </div>
       </div>
     </div>
@@ -185,11 +184,11 @@ const { t } = useI18n();
 
 watchEffect(() => {
   useHead({
-    title: "Full-stack Web developer {'|'} Nuxt {'|'} Vue {'|'} JS",
+    title: "Full-stack Web developer | Nuxt | Vue | JS",
     meta: [
       { name: 'description', content: "김민서의 포트폴리오" },
       { name: 'keywords', content: "풀스택 개발자" },
-      { property: 'og:title', content: "Full-stack Web developer {'|'} Nuxt {'|'} Vue {'|'} JS" },
+      { property: 'og:title', content: "Full-stack Web developer | Nuxt | Vue | JS" },
       { property: 'og:description', content: "김민서의 포트폴리오" },
       { property: 'og:type', content: 'website' },
     ],
