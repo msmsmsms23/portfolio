@@ -122,7 +122,7 @@
           <p class="text-primaryColor-200 italic">
             2019. 02 ~ 2024. 02
           </p>
-          <h3 class="text-lg font-bold mb-2 mt-1">백석대학교 컴퓨터공학부 정보보호학전공 학사</h3>
+          <h3 class="text-lg font-bold mb-2 mt-1">4년제 대학 컴퓨터공학 학사</h3>
         </div>
 
         <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primaryColor-300 flex flex-col items-center text-center">
