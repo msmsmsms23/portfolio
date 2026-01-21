@@ -81,7 +81,7 @@
         Achievements
       </h2>
 
-      <div class="grid grid-cols-1 mt-10 md:grid-cols-2 xl:grid-cols-4 gap-6">
+      <div class="grid grid-cols-1 mt-10 md:grid-cols-2 xl:grid-cols-3 gap-6">
         <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primaryColor-300 flex flex-col items-center text-center">
           <div class="bg-primaryColor-100 w-14 h-14 rounded-full flex items-center justify-center mb-3">
             <UIcon name="i-heroicons-star" class="size-7 text-primaryColor-500" />
@@ -90,7 +90,7 @@
             2022. 12 ~ 2023. 08
           </p>
           <h3 class="text-lg font-bold mb-2 mt-1">K-digital 지능형 블록체인 웹 개발자 양성과정 수료</h3>
-          <p class="text-sm text-gray-600">8개월 간 여러 팀 프로젝트 수행</p>
+          <p class="text-sm text-gray-600">다양한 팀 프로젝트 수행</p>
         </div>
 
         <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primaryColor-300 flex flex-col items-center text-center">
