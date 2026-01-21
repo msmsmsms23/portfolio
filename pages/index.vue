@@ -81,7 +81,7 @@
         Achievements
       </h2>
 
-      <div class="grid grid-cols-1 mt-10 md:grid-cols-2 xl:grid-cols-4 gap-6">
+      <div class="grid grid-cols-1 mt-10 md:grid-cols-2 xl:grid-cols-3 gap-6">
         <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-primaryColor-300 flex flex-col items-center text-center">
           <div class="bg-primaryColor-100 w-14 h-14 rounded-full flex items-center justify-center mb-3">
             <UIcon name="i-heroicons-star" class="size-7 text-primaryColor-500" />

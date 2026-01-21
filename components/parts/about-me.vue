@@ -3,18 +3,23 @@
     About me
   </h2>
 
-  <div class="container mx-auto px-4 text-lg flex flex-col items-center">
-    <div class="max-w-2xl text-center">
+  <div class="container mx-auto px-4 text-lg flex flex-row items-center">
+    <div class="w-full max-w-1/2 text-center p-10">
       <p class="text-primaryColor-200 italic font-bold">
         꿈을 위한 열정, 대담함
       </p>
       <p class="leading-relaxed mt-2">
-        졸업 전 들어간 회사가 입사한 지 6개월 만에 부도가 나서 임금 체불을 당한 적이 있습니다. 저는 이를 기회 삼아 회사 생활을 하며 느꼈던 부족한 부분을 채워 보고자 했습니다. 그렇게 더 높은 연봉 제안에도 불구하고 과감히 퇴사를 결정했습니다.
+        대학생 시절 학교에서 주최하는 개발자 양성과정에서 9개월 간 팀 프로젝트에 참여하여 개발 실력을 키우기 시작했습니다. 졸업 전 취업에 성공했지만, 회사의 부도로 예기치 못한 퇴직을 겪었습니다. 이를 계기로 스스로 경쟁력을 증명할 수 있는 개발자가 되어야겠다고 결심했습니다.
+      </p>
+      <p class="leading-relaxed mt-2">
+        저에게 꿈은 막연한 이상이 아니라, 불안정한 상황에서도 계속해서 선택해 온 방향입니다. 예상치 못한 환경 변화 속에서도 멈추기보다, 스스로를 단단하게 만들 수 있는 길을 택해 왔습니다.
       </p>
       <p class="leading-relaxed">
-        퇴사 후 우연한 기회로 만난 외국인 개발자분께 영어로 개발 과외를 받으며 개발자로서의 시야를 확장해 갔습니다. 배우면 배울수록 개발에 대한 꿈이 커져갔습니다.
+        완벽한 조건을 기다리기보다 부족한 상태에서 도전하는 쪽을 선택했습니다. 언어의 장벽 앞에서도 해외 개발자와의 수업에 뛰어들었고, 이해하지 못한 채 넘어가는 학습 대신 끝까지 파고드는 방식을 고집해 왔습니다.
       </p>
+    </div>
 
+    <div class="w-full max-w-1/2 text-center p-10">
       <p class="mt-6 text-primaryColor-200 italic font-bold">
         함께하는 개발자
       </p>
