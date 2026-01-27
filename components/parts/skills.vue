@@ -17,6 +17,13 @@
           <li class="mt-2">비동기 처리(async/await, Promise)와 이벤트 기반 로직 구현</li>
           <li class="mt-2">브라우저 동작 방식과 JavaScript 실행 흐름 이해 및 기능 구현</li>
         </ul>
+        <div class="mt-2 text-gray-700 text-xl italic">
+          C++
+        </div>
+        <ul class="mb-8 text-gray-700 list-image-[url(/portfolio/icon/check.png)] list-inside">
+          <li class="mt-2">실무에서 기초적인 서버 기능 및 로직 구현 경험</li>
+          <li class="mt-2">기존 코드 분석 통해 필요한 부분 수정 및 보완</li>
+        </ul>
       </div>
 
       <div class="p-6 bg-white rounded-lg shadow-sm border-l-4 border-primaryColor-300 transform hover:scale-105 transition-transform duration-300">
@@ -66,7 +73,7 @@
           Websockets
         </div>
         <ul class="mb-8 text-gray-700 list-image-[url(/portfolio/icon/check.png)] list-inside">
-          <li class="mt-2">실시간 데이터 송수신이 필요한 기능(채팅, 알림 등) 구현 가능</li>
+          <li class="mt-2">실시간 데이터 송수신이 필요한 기능(채팅, 알림 등) 구현</li>
         </ul>
         <div class="mt-2 text-gray-700 text-xl italic">
           Web workers
@@ -85,7 +92,7 @@
         </div>
         <ul class="mb-8 text-gray-700 list-image-[url(/portfolio/icon/check.png)] list-inside">
           <li class="mt-2">관계형 데이터베이스 구조 설계, 테이블 및 쿼리 작성 가능</li>
-          <li class="mt-2">API 서버와 연동하여 데이터를 저장·조회·관리</li>
+          <li class="mt-2">API 서버와 연동하여 데이터 저장·조회·관리</li>
         </ul>
         <div class="mt-2 text-gray-700 text-xl italic">
           Redis
@@ -142,7 +149,7 @@
           Docker
         </div>
         <ul class="mb-8 text-gray-700 list-image-[url(/portfolio/icon/check.png)] list-inside">
-          <li class="mt-2">Docker를 이용해 개발 환경을 컨테이너로 구성 및 일관된 실행 환경 설계</li>
+          <li class="mt-2">개발 환경을 컨테이너로 구성 및 일관된 실행 환경 설계</li>
         </ul>
       </div>
     </div>

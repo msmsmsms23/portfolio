@@ -31,7 +31,7 @@
             제 포트폴리오 사이트에 오신 것을 환영합니다. 👋
           </h2>
           <p class="text-lg mb-8 text-gray-600 max-w-lg">
-           저는 새로운 발견을 즐기는 풀스택 개발자입니다.
+            프론트엔드를 중심으로, 서버와 데이터 흐름까지 이해하는 개발자입니다.
           </p>
           <div class="flex flex-wrap gap-4">
             <a href="#contact" class="inline-flex items-center gap-2 bg-primaryColor-500 hover:bg-primaryColor-600 text-white px-6 py-3 rounded-full font-medium transition-colors">
