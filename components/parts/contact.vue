@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto px-4 py-16">
     <h2 class="text-center text-4xl font-bold text-primaryColor-500 mb-10">
-      Get In Touch & Connect With Me
+      Get In Touch
     </h2>
 
     <div class="max-w-3xl mx-auto p-3">
