@@ -10,6 +10,7 @@
         :key="index"
         :title="item.title"
         :code-url="item.codeUrl"
+        :live-url="item.liveUrl"
         :images="item.images">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
@@ -48,6 +49,22 @@ import PortfolioItem from "~/components/parts/portfolio-item.vue";
 
 const portfolioItems = [
   {
+    title: "나만의 레시피 저장소",
+    codeUrl: "https://github.com/msmsmsms23/fridge-dive",
+    liveUrl: "https://fridge-dive-dt1l9raw0-msmsmsms23s-projects.vercel.app/",
+    images: [
+      "/portfolio/screenshot/fridge-dive.png",
+      "/portfolio/screenshot/fridge-dive2.png",
+      "/portfolio/screenshot/fridge-dive3.png",
+    ],
+    features: [
+      'AI 기반 맞춤형 레시피 제안',
+      'AI 바이브 코딩 (LLM Collaboration)',
+      'Vercel, Supabase, Upstash를 활용한 클라우드 기반 서버리스 배포'
+    ],
+    techStack: ['Vue 3', 'Nuxt', 'Google Gemini', 'Drizzle', 'Pinia', 'Redis', 'PostgreSQL', 'Tailwind']
+  },
+  {
     title: "실시간 채팅 프로그램",
     codeUrl: "https://github.com/msmsmsms23/real-time-chat",
     images: [
@@ -61,7 +78,7 @@ const portfolioItems = [
       '공개 및 개인 채팅방 설정',
       '한국어/영어 지원'
     ],
-    techStack: ['Vue 3', 'Nuxt', 'Pinia', 'Websockets', 'Redis', 'PostgreSQL', 'Tailwind', 'Mailgun']
+    techStack: ['Vue 3', 'Nuxt', 'Pinia', 'Websockets', 'Drizzle', 'Redis', 'PostgreSQL', 'Tailwind', 'Mailgun']
   },
   {
     title: "Instagram clone",
@@ -79,7 +96,7 @@ const portfolioItems = [
       '구독 및 이메일 알림',
       '게시글 검색'
     ],
-    techStack: ['Vue 3', 'Nuxt', 'Pinia', 'Redis', 'PostgreSQL', 'Tailwind', 'Mailgun']
+    techStack: ['Vue 3', 'Nuxt', 'Pinia', 'Redis', 'Drizzle', 'PostgreSQL', 'Tailwind', 'Mailgun']
   },
   {
     title: "퍼즐 게임",

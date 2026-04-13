@@ -31,7 +31,7 @@
           <slot/>
         </div>
 
-        <div v-if="codeUrl || liveUrl" class="mt-6 flex flex-wrap gap-3">
+        <div class="mt-6 flex flex-wrap gap-3">
           <UButton
             v-if="codeUrl"
             :to="props.codeUrl"
